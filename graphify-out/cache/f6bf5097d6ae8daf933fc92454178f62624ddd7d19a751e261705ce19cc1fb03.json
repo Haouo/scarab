@@ -1,0 +1,1 @@
+{"nodes": [{"id": "src_optimizer2_h", "label": "optimizer2.h", "file_type": "code", "source_file": "src/optimizer2.h", "source_location": "L1"}], "edges": [{"source": "src_optimizer2_h", "target": "global_types", "relation": "imports", "confidence": "EXTRACTED", "source_file": "src/optimizer2.h", "source_location": "L34", "weight": 1.0}], "raw_calls": []}

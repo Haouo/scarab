@@ -1,0 +1,1 @@
+{"nodes": [{"id": "src_table_info_h", "label": "table_info.h", "file_type": "code", "source_file": "src/table_info.h", "source_location": "L1"}], "edges": [{"source": "src_table_info_h", "target": "enum", "relation": "imports", "confidence": "EXTRACTED", "source_file": "src/table_info.h", "source_location": "L32", "weight": 1.0}], "raw_calls": []}

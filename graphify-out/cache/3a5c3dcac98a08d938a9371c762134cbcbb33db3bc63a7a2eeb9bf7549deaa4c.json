@@ -1,0 +1,1 @@
+{"nodes": [{"id": "src_map_rename_h", "label": "map_rename.h", "file_type": "code", "source_file": "src/map_rename.h", "source_location": "L1"}], "edges": [{"source": "src_map_rename_h", "target": "op", "relation": "imports", "confidence": "EXTRACTED", "source_file": "src/map_rename.h", "source_location": "L33", "weight": 1.0}], "raw_calls": []}

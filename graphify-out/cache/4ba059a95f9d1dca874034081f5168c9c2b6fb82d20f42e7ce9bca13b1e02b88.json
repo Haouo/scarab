@@ -1,0 +1,1 @@
+{"nodes": [{"id": "src_exec_stage_h", "label": "exec_stage.h", "file_type": "code", "source_file": "src/exec_stage.h", "source_location": "L1"}], "edges": [{"source": "src_exec_stage_h", "target": "stage_data", "relation": "imports", "confidence": "EXTRACTED", "source_file": "src/exec_stage.h", "source_location": "L32", "weight": 1.0}], "raw_calls": []}

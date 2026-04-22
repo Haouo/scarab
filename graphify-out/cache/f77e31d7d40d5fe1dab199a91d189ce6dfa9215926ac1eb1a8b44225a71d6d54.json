@@ -1,0 +1,1 @@
+{"nodes": [{"id": "src_pred_info_h", "label": "pred_info.h", "file_type": "code", "source_file": "src/pred_info.h", "source_location": "L1"}], "edges": [{"source": "src_pred_info_h", "target": "global_types", "relation": "imports", "confidence": "EXTRACTED", "source_file": "src/pred_info.h", "source_location": "L32", "weight": 1.0}], "raw_calls": []}

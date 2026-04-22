@@ -1,0 +1,1 @@
+{"nodes": [{"id": "src_dumb_model_h", "label": "dumb_model.h", "file_type": "code", "source_file": "src/dumb_model.h", "source_location": "L1"}], "edges": [{"source": "src_dumb_model_h", "target": "memory", "relation": "imports", "confidence": "EXTRACTED", "source_file": "src/dumb_model.h", "source_location": "L33", "weight": 1.0}], "raw_calls": []}

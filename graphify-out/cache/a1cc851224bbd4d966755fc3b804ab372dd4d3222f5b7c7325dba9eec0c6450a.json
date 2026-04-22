@@ -1,0 +1,1 @@
+{"nodes": [{"id": "src_power_power_intf_h", "label": "power_intf.h", "file_type": "code", "source_file": "src/power/power_intf.h", "source_location": "L1"}], "edges": [{"source": "src_power_power_intf_h", "target": "enum", "relation": "imports", "confidence": "EXTRACTED", "source_file": "src/power/power_intf.h", "source_location": "L32", "weight": 1.0}], "raw_calls": []}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "src_freq_h", "label": "freq.h", "file_type": "code", "source_file": "src/freq.h", "source_location": "L1"}], "edges": [{"source": "src_freq_h", "target": "global_types", "relation": "imports", "confidence": "EXTRACTED", "source_file": "src/freq.h", "source_location": "L36", "weight": 1.0}], "raw_calls": []}
