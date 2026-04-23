@@ -47,6 +47,8 @@ typedef enum Model_Mem_enum {
   NUM_MODEL_MEMS,
 } Model_Mem;
 
+// This is like a Vitual Function Table (like "interface" in Rust)
+// The actual model can be CMP-Model, or others (please refer to model_table.def
 typedef struct Model_struct {
   Model_Id id;
   Model_Mem mem;
